@@ -25,23 +25,19 @@
   
   #text1 {
     background-color:pink;
-    border-left:solid;
-    border-bottom: solid;
+    border: 1px solid black;
     border-color: black;
   }
   
   #text2 {
     background-color:#A22020 ;
-    border-left:solid;
-    border-bottom: solid;
+    border: 1px solid black;
     border-color: black;
-  
   }
   
   #text3 {
     background-color: #EAE78E;
-    border-left:solid;
-    border-bottom: solid;
+    border: 1px solid black;
     border-color: black;
   }
   
@@ -53,7 +49,7 @@
   
   div.menu-text {
     background: gray ;
-    border: 2px solid black;
+    border: 1px solid black;
     position: relative;
     margin: 10px;
   }
